@@ -18,3 +18,4 @@ httpClientService:
 logging:
   level:
     root: info
+    com.github.shy526.service.HttpClientService: error
